@@ -1,0 +1,26 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    padding-top: 3%;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+
+.coin-image {
+    height: 100px;
+    width: 100px;
+}
+
+#coins-table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+td {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
